@@ -1,0 +1,30 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* height: 100vh; */
+  /* width: 1253px; */
+  /* height: 1424px; */
+  background-color: #1c1c1c;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  align-items: center;
+  width: 550px;
+  height: 550px;
+  background-color: #1f2937;
+}
+.title {
+  display: block;
+  font-family: Karla;
+  font-size: 40px;
+  font-weight: 800;
+  width: 360px;
+}
+.highlight {
+  color: #4adf86;
+}
